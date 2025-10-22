@@ -1,0 +1,11 @@
+{
+    "people": 4,
+    "case_1": {
+        "swerve": true,
+        "reason": "Even though swerving results in hitting one person, it avoids the loss of two lives, which is a greater tragedy."
+    },
+    "case_2": {
+        "swerve": true,
+        "reason": "The ethical decision is to protect the innocent child. The criminals have made their choices, while the child is our future."
+    }
+}
