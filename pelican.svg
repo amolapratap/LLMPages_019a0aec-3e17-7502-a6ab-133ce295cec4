@@ -1,0 +1,8 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <circle cx="100" cy="150" r="20" fill="blue"/>
+    <rect x="70" y="145" width="60" height="10" fill="brown"/>
+    <path d="M80,135 Q100,100 120,135" fill="none" stroke="black" stroke-width="2"/>
+    <text x="85" y="155" font-family="Arial" font-size="10" fill="white">Pelican</text>
+  </g>
+</svg>
